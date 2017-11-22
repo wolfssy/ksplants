@@ -5,8 +5,8 @@ body {
   background-color: #fcf5c9;
   border: 1px dotted blue;
 }
-.heading-group {
-  font-family: "roundhand", cursive;
+header{
+  border: 10px solid black;
 }
 ul {
     list-style-type: none;
@@ -14,7 +14,7 @@ ul {
     padding: 0;
     overflow: hidden;
     border: 1px solid #e7e7e7;
-    background-color: #f3f3f3;
+    background-color: #fcf5c9;
 }
 
 li {
