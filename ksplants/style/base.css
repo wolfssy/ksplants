@@ -1,7 +1,39 @@
 body {
-  font-family: Arial, sans-serif;
-  background-color: #fcf5c9;
-  width: 860px;
-  padding-left: 10%;
+  width: 80%;
+  padding-left: 20%;
   padding-right: 20%;
+  background-color: #fcf5c9;
+  border: 1px dotted blue;
+}
+header{
+  border: 10px solid black;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    border: 1px solid #e7e7e7;
+    background-color: #fcf5c9;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: #666;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover:not(.active) {
+    background-color: #ddd;
+}
+
+li a.active {
+    color: white;
+    background-color: #4CAF50;
 }

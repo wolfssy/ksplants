@@ -1,0 +1,24 @@
+/*reset*/
+
+*{
+  position: static;
+  height: auto;
+  /*width: 100%;*/
+  margin: 0;
+  padding: 0;
+  border: none;
+  outline: none;
+  font-size: 1em;
+  font-weight: normal;
+  /*font-family: sans-serif;*/
+  /*display: block;*/
+}
+html, body {
+  position: relative;
+  height:100%;
+  width: 53.7em;
+}
+/*debugger*/
+*{
+  border: 1px dotted blue;
+}
