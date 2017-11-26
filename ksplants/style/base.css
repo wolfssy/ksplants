@@ -1,13 +1,16 @@
-body {
-  width: 60em;
-  padding-left: 20%;
-  padding-right: 20%;
+html {
   background-color: #fcf5c9;
-  background-size: 100%;
-  border: 1px dotted blue;
+  width: 79.8em;
+  
+}
+body{
+  padding-left: 10em;
+  padding-right: 10em;
 }
 header{
   border: 10px solid black;
+  padding-left: 10em;
+  padding-right: 10em;
 }
 ul {
     list-style-type: none;
