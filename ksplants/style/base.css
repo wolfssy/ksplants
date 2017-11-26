@@ -1,10 +1,8 @@
 body {
-  width: 80%;
+  width: 60em;
   padding-left: 20%;
   padding-right: 20%;
   background-color: #fcf5c9;
-  background-image: url(../img/sides.jpg);
-  background-repeat: no-repeat;
   background-size: 100%;
   border: 1px dotted blue;
 }

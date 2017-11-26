@@ -2,12 +2,19 @@
   font-family: "roundhand", cursive;
   margin-left: 25%;
   margin-right: 25%;
-
 }
-
 .pageContact{
   float:right;
 }
 .pageAbout{
   float:right;
+}
+.leftSide{
+  background-image: url(../img/sides.jpg);
+  float:left;
+  margin-left: 0;
+  margin-top: 0;
+  padding-left: 0%;
+  width: 25%;
+  height: 100%;
 }
